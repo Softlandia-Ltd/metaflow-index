@@ -1,0 +1,7 @@
+plac
+llama-index
+langchain
+sentence_transformers
+python-dotenv
+faiss-cpu
+httpx
