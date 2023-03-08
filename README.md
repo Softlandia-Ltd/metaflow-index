@@ -41,7 +41,9 @@ python query_metaflow.py -n 3
 (Using Davinci)
 
 Enter query: Write an example of a simple flow in Python
+
 INFO:root:> [query] Total LLM token usage: 2233 tokens
+
 INFO:root:> [query] Total embedding token usage: 9 tokens
 
 
